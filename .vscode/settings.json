@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/geo/Envs/py27/bin/python",
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django"
+    ]
+}
